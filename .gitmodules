@@ -16,3 +16,6 @@
 [submodule "sitediff/1.2.1"]
 	path = sitediff/1.2.1
 	url = https://github.com/evolvingweb/sitediff.git
+[submodule "redis-commander/0.8.0"]
+	path = redis-commander/0.8.0
+	url = https://github.com/joeferner/redis-commander.git
