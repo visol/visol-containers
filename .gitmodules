@@ -19,3 +19,6 @@
 [submodule "redis-commander/0.8.0"]
 	path = redis-commander/0.8.0
 	url = https://github.com/joeferner/redis-commander.git
+[submodule "beanstalkd/1.12"]
+	path = beanstalkd/1.12
+	url = https://github.com/beanstalkd/beanstalkd.git
