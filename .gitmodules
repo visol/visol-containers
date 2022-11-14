@@ -1,3 +1,15 @@
 [submodule "sitediff/1.1.1"]
 	path = sitediff/1.1.1
 	url = https://github.com/evolvingweb/sitediff.git
+[submodule "typo3solr/9.0.3"]
+	path = typo3solr/9.0.3
+	url = https://github.com/TYPO3-Solr/ext-solr.git
+	branch = release-9.0.x
+[submodule "typo3solr/10.0.5"]
+	path = typo3solr/10.0.5
+	url = https://github.com/TYPO3-Solr/ext-solr.git
+	branch = release-10.0.x
+[submodule "typo3solr/11.5.0"]
+	path = typo3solr/11.5.0
+	url = https://github.com/TYPO3-Solr/ext-solr.git
+	branch = release-11.5.x
