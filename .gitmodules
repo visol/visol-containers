@@ -1,5 +1,14 @@
+[submodule "beanstalkd/1.12"]
+	path = beanstalkd/1.12
+	url = https://github.com/beanstalkd/beanstalkd.git
+[submodule "redis-commander/0.8.0"]
+	path = redis-commander/0.8.0
+	url = https://github.com/joeferner/redis-commander.git
 [submodule "sitediff/1.1.1"]
 	path = sitediff/1.1.1
+	url = https://github.com/evolvingweb/sitediff.git
+[submodule "sitediff/1.2.1"]
+	path = sitediff/1.2.1
 	url = https://github.com/evolvingweb/sitediff.git
 [submodule "typo3solr/9.0.3"]
 	path = typo3solr/9.0.3
@@ -17,12 +26,3 @@
 	path = typo3solr/11.5.1
 	url = https://github.com/TYPO3-Solr/ext-solr.git
 	branch = release-11.5.x
-[submodule "sitediff/1.2.1"]
-	path = sitediff/1.2.1
-	url = https://github.com/evolvingweb/sitediff.git
-[submodule "redis-commander/0.8.0"]
-	path = redis-commander/0.8.0
-	url = https://github.com/joeferner/redis-commander.git
-[submodule "beanstalkd/1.12"]
-	path = beanstalkd/1.12
-	url = https://github.com/beanstalkd/beanstalkd.git
