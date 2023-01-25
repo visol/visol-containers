@@ -58,6 +58,10 @@ cd typo3solr/10.0.5 \
 cd typo3solr/11.5.0 \
 && docker buildx build . --platform linux/arm64/v8,linux/amd64 --tag docker.io/visol/typo3solr:11.5.0 --file Docker/SolrServer/Dockerfile --push \
 && cd ../..
+
+cd typo3solr/11.5.1 \
+&& docker buildx build . --platform linux/arm64/v8,linux/amd64 --tag docker.io/visol/typo3solr:11.5.1 --file Docker/SolrServer/Dockerfile --push \
+&& cd ../..
 ```
 
 ## Redis Commander
