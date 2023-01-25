@@ -39,6 +39,11 @@ git submodule add -b release-11.5.x https://github.com/TYPO3-Solr/ext-solr.git t
 && cd typo3solr/11.5.0 \
 && git checkout 11.5.0 \
 && cd ../..
+
+git submodule add -b release-11.5.x https://github.com/TYPO3-Solr/ext-solr.git typo3solr/11.5.1 \
+&& cd typo3solr/11.5.1 \
+&& git checkout 11.5.1 \
+&& cd ../..
 ```
 
 ```shell
